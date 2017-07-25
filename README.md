@@ -1,3 +1,11 @@
+# Awesome CICD React
+[![CircleCI](https://circleci.com/gh/sateesh2020/letshop.svg?style=svg)](https://circleci.com/gh/sateesh2020/letshop)
+[![Code Climate](https://codeclimate.com/github/sateesh2020/letshop/badges/gpa.svg)](https://codeclimate.com/github/sateesh2020/letshop)
+[![Code Climate](https://codeclimate.com/github/sateesh2020/letshop/badges/gpa.svg)](https://codeclimate.com/github/sateesh2020/letshop)
+
+[![Test Coverage](https://codeclimate.com/github/Zaccc123/awesome-cicd-react/badges/coverage.svg)](https://codeclimate.com/github/Zaccc123/awesome-cicd-react/coverage)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
